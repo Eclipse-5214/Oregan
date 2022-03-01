@@ -4,9 +4,14 @@ var VERSION = 'version_003';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/css/styles.css`,
+  `${GHPATH}/js-dos.css`,
   `${GHPATH}/img/icon.png`,
-  `${GHPATH}/js/app.js`
+  `${GHPATH}/js-dos.js`
+  `${GHPATH}/js-dos.js.map`,
+  `${GHPATH}/emulators-ui-loader.png`,
+  `${GHPATH}/wdosbox.wasm`,
+  `${GHPATH}/wdosbox.js.symbols`,
+  `${GHPATH}/wdosbox.js`,
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
