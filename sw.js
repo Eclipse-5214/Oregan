@@ -1,6 +1,6 @@
 var GHPATH = '/oregan';
 var APP_PREFIX = 'ot_';
-var VERSION = 'version_03';
+var VERSION = 'version_04';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
@@ -11,7 +11,7 @@ var URLS = [
   `${GHPATH}/emulators-ui-loader.png`,
   `${GHPATH}/wdosbox.wasm`,
   `${GHPATH}/wdosbox.js.symbols`,
-  `${GHPATH}/wdosbox.js`,
+  `${GHPATH}/wdosbox.js`
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
