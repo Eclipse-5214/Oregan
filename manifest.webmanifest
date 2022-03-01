@@ -2,14 +2,14 @@
   "name": "Oregon Trail",
   "short_name": "OreganTrail",
   "description": "fun dos game",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "scope": "/oregan/",
+  "start_url": "/oregan/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/oregan/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
