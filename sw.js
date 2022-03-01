@@ -1,4 +1,4 @@
-var GHPATH = '/github-page-pwa';
+var GHPATH = '/oregan';
 var APP_PREFIX = 'ot_';
 var VERSION = 'version_003';
 var URLS = [    
