@@ -1,6 +1,6 @@
 var GHPATH = '/oregan';
 var APP_PREFIX = 'ot_';
-var VERSION = 'version_04';
+var VERSION = 'version_05';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
