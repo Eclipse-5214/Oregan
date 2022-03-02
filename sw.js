@@ -7,6 +7,7 @@ var URLS = [
   `${GHPATH}/js-dos.css`,
   `${GHPATH}/img/icon.png`,
   `${GHPATH}/js-dos.js.map`,
+  `${GHPATH}/origan.jsdos`,
   `${GHPATH}/js-dos.js`,
   `${GHPATH}/emulators-ui-loader.png`,
   `${GHPATH}/wdosbox.wasm`,
